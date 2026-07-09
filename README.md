@@ -18,6 +18,7 @@
         Скрипт автоматически ищет её по путям:
             C:\Program Files\Crypto Pro\CSP\cryptcp.exe
             C:\Program Files (x86)\Crypto Pro\CSP\cryptcp.exe
+            взять можно здесь https://cryptopro.ru/products/csp/downloads
     Сертификаты: Необходимые сертификаты с закрытым ключом должны быть установлены в личное хранилище текущего пользователя (CurrentUser\My).
 
 📖 Инструкция по использованию
